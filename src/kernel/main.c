@@ -1,4 +1,5 @@
 #include "arch/mod.h"
+#include "mem/mod.h"
 #include "lib/mod.h"
 
 volatile static int started = 0;
